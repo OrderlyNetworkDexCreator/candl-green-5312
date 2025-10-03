@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "candl-green",
   "VITE_ORDERLY_BROKER_NAME": "Candl Green",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/candlgreen",
   "VITE_SEO_SITE_NAME": "Candl Green",
   "VITE_SEO_SITE_DESCRIPTION": "Decentralized exchange without 140 trading assets.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/candl-green-5312/",
+  "VITE_SEO_SITE_URL": "https://candl.green",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@candlgreen",
